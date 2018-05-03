@@ -1,0 +1,104 @@
+
+#################################
+#
+#  Other Robots / global
+#
+#################################
+
+User-Agent: *
+Disallow: /
+#Crawl-delay: 5
+Host: adonisisnotmyfriend.com
+
+
+#################################
+#
+#  W3C link Checker
+#
+#################################
+
+User-Agent: W3C-checklink/*
+Allow: /
+Allow: /*$
+
+
+#################################
+#
+#  Google 
+#
+#################################
+
+
+User-agent: Googlebot
+Allow: /
+Allow: /*$
+
+User-Agent: Googlebot-Mobile
+Allow: /
+Allow: /*$
+
+
+User-Agent: Googlebot-Image
+Allow: /*.(jpg|gif|png)$
+
+
+User-Agent: Mediapartners-Google
+Allow: /
+Allow: /*$
+
+
+User-Agent: Adsbot-Google
+Allow: /
+Allow: /*$
+
+
+
+#################################
+#
+#  Yahoo!
+#
+#################################
+
+
+User-Agent: Slurp
+Allow: /
+Allow: /*$
+Disallow: /_purchase
+
+#################################
+#
+#  Digg
+#
+#################################
+
+
+User-Agent: diggmirror
+Allow: /
+Allow: /*$
+Disallow: /_purchase
+
+
+#################################
+#
+#  Microsoft Bing
+#
+#################################
+
+User-Agent: msnbot
+Allow: /
+Allow: /*$
+
+
+User-Agent: msnbot-media
+Allow: /*.(jpg|gif|png)$
+
+#################################
+#
+#  Ask Jeeves
+#
+#################################
+
+User-Agent: Teoma
+Allow: /
+Allow: /*$
+
