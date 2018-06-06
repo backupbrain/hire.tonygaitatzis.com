@@ -1,4 +1,4 @@
-{
+job_info = {
     "0170e49a-7966-47e8-93cf-12d06a74361d": {
         "id": "0170e49a-7966-47e8-93cf-12d06a74361d",
         "job_title": "Senior Software Engineer",
