@@ -42873,5 +42873,13 @@ job_info = {
             "Staffing & Outsourcing"
         ],
         "search_terms": "full stack"
+    },
+    "683fc742-2831-4efd-ac66-3cfd3edc12f2": {
+        "id": "683fc742-2831-4efd-ac66-3cfd3edc12f2",
+        "job_title": "ML/Marketing Automation Engineer",
+        "company": "WeWork",
+        "industries": [
+            "Membership Organizations"
+        ]
     }
 }
