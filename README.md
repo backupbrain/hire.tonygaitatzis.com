@@ -1,6 +1,6 @@
 # Adonis is Not My Friend
 
-Hosted on [Cloudflare Pages](https://cloudflare.com)
+Hosted on [Cloudflare Pages](https://pages.cloudflare.com)
 
 *Public URL:*
 https://hire.tonygaitatzis.com

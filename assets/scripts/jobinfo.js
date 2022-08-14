@@ -1,4 +1,13 @@
 job_info = {
+    "7fadb176-56f6-4d30-91db-783322bc42cf": {
+        "id": "7fadb176-56f6-4d30-91db-783322bc42cf",
+        "job_title": "Marketing Operations Engineer",
+        "company": "Airtable",
+        "industries": [
+            "Marketing Automation"
+        ],
+        "search_terms": "marketing automation",
+    },
     "0170e49a-7966-47e8-93cf-12d06a74361d": {
         "id": "0170e49a-7966-47e8-93cf-12d06a74361d",
         "job_title": "Senior Software Engineer",
