@@ -33959,7 +33959,7 @@ job_info = {
     id: "2c6dbd31-652a-42ad-bb22-2ddeb8dcd179",
     job_title: "Machine Learning Engineer",
     company: "Facebook",
-    industries: ["Internet"],
+    industries: ["Machine Learning"],
     search_terms: "artificial intelligence",
   },
 };
