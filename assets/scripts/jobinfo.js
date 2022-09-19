@@ -1,4 +1,11 @@
 job_info = {
+  "2c6dbd31-652a-42ad-bb22-2ddeb8dcd179": {
+    id: "2c6dbd31-652a-42ad-bb22-2ddeb8dcd179",
+    job_title: "Machine Learning Engineer",
+    company: "Facebook",
+    industries: ["Machine Learning"],
+    search_terms: "artificial intelligence",
+  },
   "7fadb176-56f6-4d30-91db-783322bc42cf": {
     id: "7fadb176-56f6-4d30-91db-783322bc42cf",
     job_title: "Marketing Operations Engineer",
@@ -11,11 +18,6 @@ job_info = {
     job_title: "Senior Software Engineer",
     company: "Quid",
     industries: ["Internet"],
-    search_terms: "artificial intelligence",
-  },
-  "03a4737d-1469-4610-b851-2d96a2cda5a7": {
-    id: "03a4737d-1469-4610-b851-2d96a2cda5a7",
-    job_title: "Remote Front-End Engineer",
     search_terms: "artificial intelligence",
   },
   "0768ee16-5068-474a-b015-9f1820012dcf": {
@@ -33954,12 +33956,5 @@ job_info = {
     job_title: "ML/Marketing Automation Engineer",
     company: "WeWork",
     industries: ["Membership Organizations"],
-  },
-  "2c6dbd31-652a-42ad-bb22-2ddeb8dcd179": {
-    id: "2c6dbd31-652a-42ad-bb22-2ddeb8dcd179",
-    job_title: "Machine Learning Engineer",
-    company: "Facebook",
-    industries: ["Machine Learning"],
-    search_terms: "artificial intelligence",
   },
 };
