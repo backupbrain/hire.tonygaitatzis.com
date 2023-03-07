@@ -1,4 +1,11 @@
 job_info = {
+  "652c57c7-d602-405c-86fa-7259ca07b97b": {
+    id: "652c57c7-d602-405c-86fa-7259ca07b97b",
+    job_title: "Software Engineer - Industrial IoT",
+    company: "Canonical",
+    industries: ["Embedded Hardware and Software"],
+    search_terms: "embedded engineer",
+  },
   "2c6dbd31-652a-42ad-bb22-2ddeb8dcd179": {
     id: "2c6dbd31-652a-42ad-bb22-2ddeb8dcd179",
     job_title: "Machine Learning Engineer",
