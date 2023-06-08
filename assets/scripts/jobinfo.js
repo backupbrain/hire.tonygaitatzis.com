@@ -1,4 +1,11 @@
 job_info = {
+  "1f414f6e-01fe-417b-89f9-81b503423f00": {
+    id: "1f414f6e-01fe-417b-89f9-81b503423f00",
+    job_title: "Associate",
+    company: "BoostVC",
+    industries: ["Startup Investing"],
+    search_terms: "boostvc",
+  },
   "652c57c7-d602-405c-86fa-7259ca07b97b": {
     id: "652c57c7-d602-405c-86fa-7259ca07b97b",
     job_title: "Software Engineer - Industrial IoT",
